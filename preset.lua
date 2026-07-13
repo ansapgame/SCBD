@@ -2077,7 +2077,7 @@
 			{ id = 1726230438, name = "Central Health Clinic" },
 			{ id = -2044358373, name = "Compact Health Clinic" },
 		},
-		["🏛 Maxis] = {
+		["🏛 Maxis"] = {
 			{ id = 925375395, name = "Maxis Manor" },
 			{ id = 1579400415, name = "Maxis Hq" },
 			{ id = -1815140946, name = "Maxis Fortress" },
@@ -2092,28 +2092,28 @@
 			{ id = 87683878, name = "Deluxe Drone Base (Level 10)" },
 		},
 	},
-	["🌍 Regional_Building] = {
-	["🌵 Regional_Cactus_Canyon] = {
+	["🌍 Regional_Building"] = {
+	["🌵 Regional_Cactus_Canyon"] = {
 	{ id = 1358265717, name = "Small Gas Refill Station" },
 	{ id = 1836436996, name = "Big Gas Station" },
 	{ id = 1924252631, name = "Deluxe Gas Station" },
 },
-["🏕️ Regional_Green_Valley] = {
+["🏕️ Regional_Green_Valley"] = {
 { id = -1079837306, name = "Organic Food Stall" },
 { id = 1557131445, name = "Organic Food Market" },
 { id = 703859140, name = "Deluxe Organic Food Market" },
 },
-["❄️ Regional_Frosty_Fjords] = {
+["❄️ Regional_Frosty_Fjords"] = {
 { id = 68640347, name = "Geothermal Plant" },
 { id = -2051554074, name = "Large Geothermal Heating Plant" },
 { id = 1016611193, name = "Deluxe Heating Plant" },
 },
-["🌄 Regional_Limestone_Cliffs] = {
+["🌄 Regional_Limestone_Cliffs"] = {
 { id = 358081562, name = "Street Food Stall" },
 { id = -369722359, name = "Street Food Restaurant" },
 { id = 884035890, name = "Street Food Market" },
 },
-["🏝️ Regional_Sunny_Isles] = {
+["🏝️ Regional_Sunny_Isles"] = {
 { id = -328189622, name = "Tourist Info Booth" },
 { id = -1903432613, name = "Tourism Center" },
 { id = 1777377820, name = "Luxury Tourist Center" },
