@@ -1,6 +1,7 @@
 return {
 	["👑 Mayor Pass"] = {
-		["Season 1 - Americana - Part 1"] = {
+		["Season 1 - Americana"] = {
+			["Season 1 - Americana - Part 1"] = {
 			{ id = -696532419, name = "SimCity Bank" },
 			{ id = -970872132, name = "Backyard Basketball" },
 			{ id = -177840672, name = "Crispy Clean Laundry Wash" },
@@ -30,8 +31,10 @@ return {
 			{ id = -1380596413, name = "The Shaky Milkshake Lounge" },
 			{ id = 1350015626, name = "Seaplane Dock" },
 			{ id = 2061628404, name = "Relaxing Trailer Camp" },
-		},
-		["Season 2 - Venice - Part 1"] = {
+			},
+		},	
+		["Season 2 - Venice"] = {
+			["Season 2 - Venice - Part 1"] = {
 			{ id = -1460235956, name = "Restaurant Sapori" },
 			{ id = -764851151, name = "Garden La Pace" },
 			{ id = -1941533902, name = "Bridge Classico" },
@@ -52,7 +55,8 @@ return {
 			{ id = 1144653927, name = "Fountain Della Natura" },
 			{ id = 973779621, name = "Waterfall Dei Sogni" },
 			{ id = 537112411, name = "Villa Classica" },
-		},
+			},
+		},	
 		["Season 3 - Winter Downtown"] = {
 			{ id = 1008927481, name = "Toys and Joys Store" },
 			{ id = 1303921313, name = "The Hot Cup" },
