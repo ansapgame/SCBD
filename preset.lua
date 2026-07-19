@@ -2044,8 +2044,8 @@
 		},
 		["🔥 Fire"] = {
 			{ id = 583140740, name = "Small Fire Station" },
-			{ id = 388741900, name = "Basic Fire Station" },
-			{ id = 1840115993, name = "Deluxe Fire Station" },
+			{ id = 388741903, name = "Basic Fire Station" },
+			{ id = 594285442, name = "Deluxe Fire Station" },
 			{ id = -357520281, name = "Fire Service Headquarters" },
 			{ id = 1840116317, name = "Grand Fire Station" },
 			{ id = -1566555016, name = "Chicago Firehouse" },
@@ -2055,8 +2055,8 @@
 		},
 		["🚓 Police"] = {
 			{ id = -150076998, name = "Small Police Station" },
-			{ id = -1397016254, name = "Basic Police Station" },
-			{ id = -898048421, name = "Police Precint" },
+			{ id = -1397016251, name = "Basic Police Station" },
+			{ id = 429172996, name = "Police Precint" },
 			{ id = 1333524968, name = "Police Academy" },
 			{ id = -1361673718, name = "Evidence Lab" },
 			{ id = -898048097, name = "Police Headquarters" },
@@ -2067,8 +2067,8 @@
 		},
 		["🏥 Health"] = {
 			{ id = -66177425, name = "Small Health Clinic" },
-			{ id = 1155556855, name = "Health Clinic" },
-			{ id = 850245036, name = "Hospital" },
+			{ id = 1155556858, name = "Health Clinic" },
+			{ id = -2006685067, name = "Hospital" },
 			{ id = 1900838580, name = "Medical Research Center" },
 			{ id = 850245360, name = "Medical Center" },
 			{ id = 1947666751, name = "Egyptian Hospital" },
