@@ -1,5 +1,5 @@
 	return {
-	["👑 Mayor Pass"] = {
+	["Mayor Pass"] = {
 		["Season 1 - Americana"] = {
 			["Season 1 - Americana - Part 1"] = {
 			{ id = -696532419, name = "SimCity Bank" },
@@ -660,7 +660,7 @@
 			{ id = -1212948374, name = "Golden Roar" },
 		},
 	},
-	["🏫 Education"] = {
+	["Education"] = {
 ["Educations - Part 1"] = {
 { id = 153804537, name = "Department Of Education" },
 { id = 1149140292, name = "Nursery School" },
@@ -723,7 +723,7 @@
 { id = 1619056733, name = "The Sims Press" },
 		},
 	},
-	["🚀 Space"] = {
+	["Space"] = {
 ["Spaces - Part 1"] = {
 { id = -1540556852, name = "Space Hq" },
 { id = 489221826, name = "Stellar Observatory" },
@@ -761,7 +761,7 @@
 { id = -1523221710, name = "Artemis II Rocket" },
 		},
 	},
-	["🎰 Gambling"] = {
+	["Gambling"] = {
 		["Gambling - Part 1"] = {
 			{ id = -1670955522, name = "Gambling HQ" },
 			{ id = -1917164795, name = "Gambling House" },
@@ -795,7 +795,7 @@
 			{ id = -10488098, name = "Pooch Palace" },
 		},
 	},
-	["🖼️ Landscape"] = {
+	["Landscape"] = {
 		["Landscapes - Part 1"] = {
 { id = -363082332, name = "Pond" },
 { id = 1092744876, name = "Lake" },
@@ -1006,7 +1006,7 @@
 { id = -1077389173, name = "Sausage Stand" },
 		},
 	},
-	["🎡 Entertainment"] = {
+	["Entertainment"] = {
 		["Entertainments - Part 1"] = {
 { id = -1460623397, name = "Entertainment Hq" },
 { id = 261606785, name = "Hotel" },
@@ -1217,7 +1217,7 @@
 { id = 341574885, name = "Pride Tower" },
 		},
 	},
-	["🚙 Transportation"] = {
+	["Transportation"] = {
 		["Transportation - Part 1"] = {
 			{ id = -1558709851, name = "Departament of Transportation " },
 			{ id = -1982142573, name = "(BUS TERMINAL) RED" },
@@ -1263,7 +1263,7 @@
 			{ id = 492805707, name = "Imperial Motorworks" },
 		},
 	},
-	["⛲ Parks"] = {
+	["Parks"] = {
 		["Parks - Part 1"] = {
 { id = -1672104106, name = "Small Fountain Park" },
 { id = 712780976, name = "Modern Art Park" },
@@ -1639,7 +1639,7 @@
 { id = 1018840214, name = "Soccer Statue" },
 		},
 	},
-	["🗼 Landmarks"] = {
+	["Landmarks"] = {
 		["Landmark - Part 1"] = {
 { id = -1459586527, name = "Department Of Culture" },
 { id = 53972136, name = "Tower Of Pisa" },
@@ -1799,7 +1799,7 @@
 { id = -2072172331, name = "Gasometer Complex" },
 		},
 	},
-	["⛱️ Beach"] = {
+	["Beach"] = {
 		["Beachs - Part 1"] = {
 { id = 764118735, name = "Volleyball Court" },
 { id = 813308529, name = "Merman Statue" },
@@ -1912,7 +1912,7 @@
 { id = -2075988934, name = "Aquatic Domes" },
 		},
 	},
-	["🗻 Mountain"] = {
+	["Mountain"] = {
 		["Mountains - Part 1"] = {
 { id = -1734299794, name = "Mountainside Train Station" },
 { id = -2139578863, name = "Ski Hotel" },
@@ -1976,7 +1976,7 @@
 { id = 2063632743, name = "Independence Overlook" },
 		},
 	},
-	["🚄 Railway Stations"] = {
+	["Railway Stations"] = {
 ["Trainsation - Part 1"] = {
 { id = -884003462, name = "Royal X Station" },
 { id = -142685661, name = "Golden Marsh Station" },
@@ -1999,8 +1999,8 @@
 { id = 1703812238, name = "Santa's Express" },
 		},
 	},
-		["🔨 Services"] = {
-		["⚡ Power"] = {
+		["Services"] = {
+		["Power"] = {
 			["Power - Part 1"] = {
 				{ id = 751144119, name = "Wind Power Plant" },
 				{ id = 43959873, name = "Deluxe Wind Power Plant" },
@@ -2018,14 +2018,14 @@
 				{ id = -747375459, name = "Concentrated Solar Power Plant" },
 			},
 		},
-		["💧 Water"] = {
+		["Water"] = {
 			{ id = 139346166, name = "Basic Water Tower" },
 			{ id = 1575951752, name = "Water Pumping Station" },
 			{ id = -320582719, name = "Saltwater Treatment" },
 			{ id = 1575952079, name = "Fresh Water Pumping Station" },
 			{ id = 1454604382, name = "Omega Water Tower" },
 		},
-		["🚽 Sewage"] = {
+		["Sewage"] = {
 			{ id = 182280407, name = "Small Sewage Outflow Pipe" },
 			{ id = -12118430, name = "Basic Sewage Outflow Pipe" },
 			{ id = 1508927486, name = "Deluxe Sewage Treatment Plant" },
@@ -2033,7 +2033,7 @@
 			{ id = -2130901093, name = "High Tech Sewage Tower" },
 			{ id = -12118106, name = "Sewage Reclamation Plant" },
 		},
-		["♻️ Waste Management"] = {
+		["Waste Management"] = {
 			{ id = -741284485, name = "Small Garbage Dump" },
 			{ id = -935683325, name = "Garbage Dump" },
 			{ id = -1415031890, name = "Garbage Incinerator" },
@@ -2042,7 +2042,7 @@
 			{ id = -741567455, name = "Biodome Waste Facility" },
 			{ id = -1415031566, name = "Waste To Energy Plant" },
 		},
-		["🔥 Fire"] = {
+		["Fire"] = {
 			{ id = 583140740, name = "Small Fire Station" },
 			{ id = 388741903, name = "Basic Fire Station" },
 			{ id = 594285442, name = "Deluxe Fire Station" },
@@ -2053,7 +2053,7 @@
 			{ id = -1589439045, name = "Central Fire Station" },
 			{ id = 1402319152, name = "Compact Fire Station" },
 		},
-		["🚓 Police"] = {
+		["Police"] = {
 			{ id = -150076998, name = "Small Police Station" },
 			{ id = -1397016251, name = "Basic Police Station" },
 			{ id = 429172996, name = "Police Precint" },
@@ -2065,7 +2065,7 @@
 			{ id = 437513969, name = "Central Police Station" },
 			{ id = -1417983898, name = "Compact Police Station" },
 		},
-		["🏥 Health"] = {
+		["Health"] = {
 			{ id = -66177425, name = "Small Health Clinic" },
 			{ id = 1155556858, name = "Health Clinic" },
 			{ id = -2006685067, name = "Hospital" },
@@ -2077,46 +2077,49 @@
 			{ id = 1726230438, name = "Central Health Clinic" },
 			{ id = -2044358373, name = "Compact Health Clinic" },
 		},
-		["🏛 Maxis"] = {
+		["Maxis"] = {
 			{ id = 925375395, name = "Maxis Manor" },
 			{ id = 1579400415, name = "Maxis Hq" },
 			{ id = -1815140946, name = "Maxis Fortress" },
 		},
-		["🛰️ Omega Control and Drones"] = {
+		["Omega Control"] = {
 			{ id = -184573343, name = "Small Controlnet Tower (Level 9)" },
 			{ id = 1796938609, name = "Basic Controlnet Tower (Level 10)" },
 			{ id = 1659661883, name = "Deluxe Controlnet Tower (Level 10)" },
 			{ id = 277401625, name = "Controlnet HQ (Level 10)" },
+			},
+			["Drones"] = {
 			{ id = 927036052, name = "Small Drone Base (Level 10)" },
 			{ id = 1461271996, name = "Basic Drone Base (Level 10)" },
 			{ id = 87683878, name = "Deluxe Drone Base (Level 10)" },
-		},
+
 	},
-	["🌍 Regional_Building"] = {
-	["🌵 Regional_Cactus_Canyon"] = {
+	["Regional_Building"] = {
+	["Regional_Cactus_Canyon"] = {
 	{ id = 1358265717, name = "Small Gas Refill Station" },
 	{ id = 1836436996, name = "Big Gas Station" },
 	{ id = 1924252631, name = "Deluxe Gas Station" },
 },
-["🏕️ Regional_Green_Valley"] = {
+["Regional_Green_Valley"] = {
 { id = -1079837306, name = "Organic Food Stall" },
 { id = 1557131445, name = "Organic Food Market" },
 { id = 703859140, name = "Deluxe Organic Food Market" },
 },
-["❄️ Regional_Frosty_Fjords"] = {
+["Regional_Frosty_Fjords"] = {
 { id = 68640347, name = "Geothermal Plant" },
 { id = -2051554074, name = "Large Geothermal Heating Plant" },
 { id = 1016611193, name = "Deluxe Heating Plant" },
 },
-["🌄 Regional_Limestone_Cliffs"] = {
+["Regional_Limestone_Cliffs"] = {
 { id = 358081562, name = "Street Food Stall" },
 { id = -369722359, name = "Street Food Restaurant" },
 { id = 884035890, name = "Street Food Market" },
 },
-["🏝️ Regional_Sunny_Isles"] = {
+["Regional_Sunny_Isles"] = {
 { id = -328189622, name = "Tourist Info Booth" },
 { id = -1903432613, name = "Tourism Center" },
 { id = 1777377820, name = "Luxury Tourist Center" },
+},
 },
 },
 }
