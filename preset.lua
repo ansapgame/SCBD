@@ -655,14 +655,14 @@
 			{ id = 1906410403, name = "The Velvet Speakeasy" },
 			{ id = -2064704377, name = "The Gilded Supper Club" },
 		},
-		["Season 72 - Roaring Twenties"] = {
+		["Season 72 - Greek Islands"] = {
 			{ id = -1431102179, name = "Grand Master's Palace" },
 			{ id = -1120776564, name = "Achilleion Palace" },
 			{ id = -485879205, name = "Agios Nektarios Monastery" },
 			{ id = -2033918696, name = "Milos Syrmata" },
 			{ id = 264407190, name = "Syros Town Hall" },
 		},
-		["Season 73 - MALAY"] = {
+		["Season 73 - Kuala Lumpur"] = {
 			{ id = -1635760276, name = "Thean Hou Temple" },
 			{ id = 2109486891, name = "Batu Temple Stairs" },
 			{ id = 766525079, name = "Istana Negara" },
@@ -2034,50 +2034,7 @@
 			{ id = 1703812238, name = "Santa's Express" },
 		},
 	},
-	["🌃 Building Effects"] = {
-		[" 🌆 Night Effects"] = {
-			["Night Effects - Part 1"] = {
-				{ id = -1516863731, name = "Completely Normal Cave" },
-				{ id = -126619542, name = "Completely Normal Lighthouse" },
-				{ id = -778728861, name = "Completely Normal Library" },
-				{ id = -2079583356, name = "Completely Normal Picnic" },
-				{ id = -42524362, name = "Volcano Roller Coaster" },
-				{ id = 1122908991, name = "Ghost Mansion" },
-				{ id = -1929681207, name = "Count's Castle" },
-				{ id = -1712809431, name = "Grand Souq" },
-				{ id = -1035296432, name = "Caravanserai Restaurant" },
-				{ id = 2104758484, name = "Baklava Pastry Shop" },
-				{ id = -1760746598, name = "Countess' Bath House" },
-			},
-			["Night Effects - Part 2"] = {
-				{ id = -2127049860, name = "Sunken Village" },
-				{ id = -492173631, name = "The Flying Dutchman" },
-				{ id = -401195743, name = "Ghost Fortress" },
-				{ id = -1749904249, name = "Alpha Drone Show" },
-				{ id = 799630444, name = "Iftar Market Square" },
-				{ id = -1607734367, name = "New Year's Palace (2023)" },
-				{ id = 2108045910, name = "Winter Wonder Vuppelin" },
-				{ id = -1053360456, name = "Winter Holiday Park" },
-				{ id = -213332959, name = "Winter Holiday Street" },
-				{ id = 1734153025, name = "Iftar Tent" },
-				{ id = 1727940088, name = "Geylang Ramadan Bazaar" },
-			},
-			["Night Effects - Part 3"] = {
-				{ id = -1950029431, name = "Festival of Breaking the Fast" },
-				{ id = 462058679, name = "Streets Of Diwali" },
-				{ id = 16392513, name = "Deserted Farm" },
-				{ id = -226444335, name = "Haunted Sanitarium" },
-			},
-		},
-		["🌁 City Effects"] = {
-			["City Effects - Part 1"] = {
-				{ id = -363029219, name = "Legendary Abandoned Skyscraper" },
-				{ id = -489269854, name = "Legendary Holiday Tree" },
-				{ id = 1617510064, name = "Gothic Tower" },
-				{ id = -88841617, name = "Ghost Portal (Level 26)" },
-			},
-		},
-	},
+	
 	["🔨 Services"] = {
 		["⚡ Power"] = {
 			["Power - Part 1"] = {
@@ -2166,9 +2123,14 @@
 { id = 1796938609, name = "Basic Controlnet Tower" },
 { id = 1659661883, name = "Deluxe Controlnet Tower" },
 { id = 277401625, name = "Controlnet HQ" },
-			{ id = 927036052, name = "Small Drone Base" },
+{ id = 927036052, name = "Small Drone Base" },
 { id = 1461271996, name = "Basic Drone Base" },
 { id = 87683878, name = "Deluxe Drone Base" },
+		},
+		["🤖 Maxis"] = {
+			{ id = 925375395, name = "Maxis Manor" },
+{ id = 1579400415, name = "Maxis Hq" },
+{ id = -1815140946, name = "Maxis Fortress" },
 		},
 	},
 }
