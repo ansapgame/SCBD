@@ -659,6 +659,21 @@
 			{ id = -320589832, name = "Dancing Hall" },
 			{ id = -1212948374, name = "Golden Roar" },
 		},
+		["Season 72 - Next Update"] = {
+			{ id = -1431102179, name = "Grand Master's Palace" },
+			{ id = -1120776564, name = "Achilleion Palace" },
+			{ id = -485879205, name = "Agios Nektarios Monastery" },
+			{ id = -2033918696, name = "Milos Syrmata" },
+			{ id = 264407190, name = "Syros Town Hall" },
+		},
+
+		["Season 73 - Next Update"] = {
+			{ id = -1635760276, name = "Thean Hou Temple" },
+			{ id = 2109486891, name = "Batu Temple Stairs" },
+			{ id = 766525079, name = "Istana Negara" },
+			{ id = 584850318, name = "Sky Vista Tower" },
+			{ id = -1789244728, name = "Perdana Botanical Garden" },
+		},
 	},
 	["Education"] = {
 ["Educations - Part 1"] = {
@@ -1005,6 +1020,10 @@
 { id = 659888328, name = "KPop Seoul Gate" },
 { id = -1077389173, name = "Sausage Stand" },
 		},
+		["Landscapes - Part 16"] = {
+{ id = -1332138193, name = "Cycladic Windmill" },
+{ id = 900872052, name = "Saloma Link" },
+		},
 	},
 	["Entertainment"] = {
 		["Entertainments - Part 1"] = {
@@ -1216,6 +1235,10 @@
 { id = 1943126314, name = "Picture Palace" },
 { id = 341574885, name = "Pride Tower" },
 		},
+		["Entertainments - Part 16"] = {
+{ id = -135923372, name = "Skyline Harmony Hub" },
+{ id = -100916850, name = "Pasar Seni Market" },
+	},		
 	},
 	["Transportation"] = {
 		["Transportation - Part 1"] = {
@@ -1637,6 +1660,8 @@
 { id = -1796591208, name = "Gloriette Viewpoint" },
 { id = 83636573, name = "Vienna Museum Square" },
 { id = 1018840214, name = "Soccer Statue" },
+{ id = -1472776137, name = "Achilleion Gardens" },
+{ id = 1332270811, name = "Crescent Telecom Tower" },
 		},
 	},
 	["Landmarks"] = {
@@ -1797,6 +1822,10 @@
 ["Landmark - Part 12"] = {
 { id = 1143150652, name = "Viena St. Charles's Church" },
 { id = -2072172331, name = "Gasometer Complex" },
+{ id = 1577039799, name = "Goverment House" },
+{ id = 1290232098, name = "Knossos Palace" },
+{ id = -84270972, name = "Masjid Negara" },
+{ id = 1612503471, name = "Batu Temple Complex" },
 		},
 	},
 	["Beach"] = {
@@ -1910,6 +1939,11 @@
 { id = 2004125040, name = "Aquatic Observation" },
 { id = -1675500681, name = "Aquatic Restaurant" },
 { id = -2075988934, name = "Aquatic Domes" },
+},
+		
+["Beachs - Part 9"] = {
+{ id = -437938904, name = "Blue Caves" },
+{ id = -1106250948, name = "Santorini's Red Beach" },
 		},
 	},
 	["Mountain"] = {
@@ -1974,6 +2008,8 @@
 { id = -1695738094, name = "Peers Cave" },
 { id = 1784267536, name = "Alpha Mountain Retreat" },
 { id = 2063632743, name = "Independence Overlook" },
+{ id = 2014441902, name = "Samotharki Pools" },
+{ id = -2073973120, name = "Cliffside Retreats" },
 		},
 	},
 	["Railway Stations"] = {
@@ -2064,6 +2100,7 @@
 			{ id = 816648294, name = "Twenties Police Station" },
 			{ id = 437513969, name = "Central Police Station" },
 			{ id = -1417983898, name = "Compact Police Station" },
+			{ id = 1824381106, name = "Port Authority Station" },
 		},
 		["Health"] = {
 			{ id = -66177425, name = "Small Health Clinic" },
@@ -2076,6 +2113,7 @@
 			{ id = 13139718, name = "Caring Hearts Clinic" },
 			{ id = 1726230438, name = "Central Health Clinic" },
 			{ id = -2044358373, name = "Compact Health Clinic" },
+			{ id = -1212433250, name = "Harmony Medical Centre" },
 		},
 		["Maxis"] = {
 			{ id = 925375395, name = "Maxis Manor" },
