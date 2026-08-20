@@ -9118,7 +9118,7 @@ local function presetsMenuBuilding(foundBuildingsCount)
 				end
 
 				local header = "Select presets (Total cannot exceed " .. foundBuildingsCount .. " buildings):"
-				local choiceItems = { "?? Back" }
+				local choiceItems = { "⬅️ Back" }
 				for _, name in ipairs(presetNames) do
 					table.insert(choiceItems, name)
 				end
@@ -9665,7 +9665,7 @@ function mainMenuBuildingTool()
 					.. "Allows you to replace an existing building with another...\n\n"
 					.. "🏭 FACTORY METHOD:\n"
 					.. "Allows you to produce any storable building using factory items...\n\n"
-					.. "?? Vu Pass Method:\n"
+					.. "🎁 Vu Pass Method:\n"
 					.. "Finds buildings, replaces their pointers in memory with your building choice then applies the result to the Vu Pass."
 			)
 		end
@@ -11371,7 +11371,7 @@ function showTrainItemsMenu()
 			"🔙 Back",
 			"🚂 Bolts, Conductor Hat, Vintage Lantern",
 			"🚂 Pickaxe",
-		}, nil, "?? Train Items")
+		}, nil, "🚂 Train Items")
 
 		if not choice then
 			gg.setVisible(false)
@@ -15107,7 +15107,7 @@ local buildingData = {
 				tiers = {
 					{ name = "🐢 Turtle", id = -691412737 },
 					{ name = "🦙 Llama", id = -691412736 },
-					{ name = "?? Cheetah", id = -691412735 },
+					{ name = "🐆 Cheetah", id = -691412735 },
 				},
 			},
 			{
@@ -15155,7 +15155,7 @@ local buildingData = {
 				tiers = {
 					{ name = "🐢 Turtle", id = -2014094902 },
 					{ name = "🦙 Llama", id = -2014094901 },
-					{ name = "?? Cheetah", id = -2014094900 },
+					{ name = "🐆 Cheetah", id = -2014094900 },
 				},
 			},
 		},
@@ -15305,7 +15305,7 @@ local buildingData = {
 		},
 	},
 	{
-		name = "?? Kyoto Zone",
+		name = "🏠 Kyoto Zone",
 		tiers = {
 			{ name = "Tier 1", id = -117255958 },
 			{ name = "Tier 2", id = 1174212011 },
@@ -15699,7 +15699,7 @@ function cardsMenu()
 			"🎫 Cards through Vu Pass",
 		}
 
-		local choice = gg.choice(options, nil, "?? Cards Menu")
+		local choice = gg.choice(options, nil, "🎴 Cards Menu")
 
 		if choice == nil then
 			gg.setVisible(false)
@@ -15786,7 +15786,7 @@ function buildingMenu()
 		}
 
 		if bulldozerState.isOn then
-			options[6] = "🚜 Bulldoze/Store All Buildings ??"
+			options[6] = "🚜 Bulldoze/Store All Buildings 🟢"
 		else
 			options[6] = "🚜 Bulldoze / Store All Buildings 🔴"
 		end
